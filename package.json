@@ -1,7 +1,7 @@
 {
   "name": "pfmalayalam",
   "version": "0.1.0",
-  "homepage": "https://vishnukgcherupuzha.github.io/PFMalayalam-dev-v/",
+  "homepage": "http://www.pfmalayalam.com",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
@@ -18,8 +18,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy":"gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
