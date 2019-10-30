@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/PFMalayalam-dev-v/static/css/main.a6f07f5b.chunk.css",
-    "main.js": "/PFMalayalam-dev-v/static/js/main.898db500.chunk.js",
-    "main.js.map": "/PFMalayalam-dev-v/static/js/main.898db500.chunk.js.map",
-    "runtime-main.js": "/PFMalayalam-dev-v/static/js/runtime-main.7fe030e4.js",
-    "runtime-main.js.map": "/PFMalayalam-dev-v/static/js/runtime-main.7fe030e4.js.map",
-    "static/css/2.0624914a.chunk.css": "/PFMalayalam-dev-v/static/css/2.0624914a.chunk.css",
-    "static/js/2.98ee6a75.chunk.js": "/PFMalayalam-dev-v/static/js/2.98ee6a75.chunk.js",
-    "static/js/2.98ee6a75.chunk.js.map": "/PFMalayalam-dev-v/static/js/2.98ee6a75.chunk.js.map",
-    "index.html": "/PFMalayalam-dev-v/index.html",
-    "precache-manifest.678e3a7184fb409620de0d0fdf1bc42b.js": "/PFMalayalam-dev-v/precache-manifest.678e3a7184fb409620de0d0fdf1bc42b.js",
-    "service-worker.js": "/PFMalayalam-dev-v/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/PFMalayalam-dev-v/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.a6f07f5b.chunk.css.map": "/PFMalayalam-dev-v/static/css/main.a6f07f5b.chunk.css.map",
-    "static/media/image1.png": "/PFMalayalam-dev-v/static/media/image1.4a1d3627.png",
-    "static/media/image2.jpg": "/PFMalayalam-dev-v/static/media/image2.27078614.jpg",
-    "static/media/image3.jpg": "/PFMalayalam-dev-v/static/media/image3.e53924b2.jpg",
-    "static/media/opps.jpg": "/PFMalayalam-dev-v/static/media/opps.2a5be244.jpg"
+    "main.css": "/pfmalayalam/static/css/main.a6f07f5b.chunk.css",
+    "main.js": "/pfmalayalam/static/js/main.c5982335.chunk.js",
+    "main.js.map": "/pfmalayalam/static/js/main.c5982335.chunk.js.map",
+    "runtime-main.js": "/pfmalayalam/static/js/runtime-main.87c23d95.js",
+    "runtime-main.js.map": "/pfmalayalam/static/js/runtime-main.87c23d95.js.map",
+    "static/css/2.0624914a.chunk.css": "/pfmalayalam/static/css/2.0624914a.chunk.css",
+    "static/js/2.98ee6a75.chunk.js": "/pfmalayalam/static/js/2.98ee6a75.chunk.js",
+    "static/js/2.98ee6a75.chunk.js.map": "/pfmalayalam/static/js/2.98ee6a75.chunk.js.map",
+    "index.html": "/pfmalayalam/index.html",
+    "precache-manifest.d94d0cd177577f8f868652c68d5af31a.js": "/pfmalayalam/precache-manifest.d94d0cd177577f8f868652c68d5af31a.js",
+    "service-worker.js": "/pfmalayalam/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/pfmalayalam/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.a6f07f5b.chunk.css.map": "/pfmalayalam/static/css/main.a6f07f5b.chunk.css.map",
+    "static/media/image1.png": "/pfmalayalam/static/media/image1.4a1d3627.png",
+    "static/media/image2.jpg": "/pfmalayalam/static/media/image2.27078614.jpg",
+    "static/media/image3.jpg": "/pfmalayalam/static/media/image3.e53924b2.jpg",
+    "static/media/opps.jpg": "/pfmalayalam/static/media/opps.2a5be244.jpg"
   }
 }
